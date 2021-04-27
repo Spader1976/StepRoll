@@ -1,0 +1,9 @@
+{
+    "name": "step-roll",
+    "title": "Step Roll",
+    "description": "<p>Allow the use of a step table for the Earthdawn system</p>",
+    "version": "1.0",
+    "authors": ["Jonathan Barrette"],
+    "scripts": ["./steproll.js"],
+    "minimumCoreVersion": "0.6.0",
+}
