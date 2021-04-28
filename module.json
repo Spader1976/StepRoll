@@ -5,6 +5,6 @@
     "version": "1.0",
     "authors": ["Jonathan Barrette"],
     "scripts": ["./steproll.js"],
-    "manifest": "",
+    "manifest": "https://github.com/spader1976/StepRoll/releases/latest/download/module.json",
     "minimumCoreVersion": "0.6.0",
 }
