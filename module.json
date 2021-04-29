@@ -4,7 +4,7 @@
     "description": "<p>Allow the use of a step table for the Earthdawn system</p>",
     "version": "0.0.1",
     "authors": ["Jonathan Barrette"],
-    //"scripts": ["./steproll.js"],
+    "scripts": ["./steproll.js"],
     "manifest": "https://github.com/spader1976/StepRoll/module.json",
     "minimumCoreVersion": "0.6.0",
 }
